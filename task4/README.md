@@ -1,4 +1,3 @@
-#@ Gitcoin: 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
 
 ### [Link to the Layer 1 address I funded on the Testnet Explorer.](https://explorer.nervos.org/aggron/address/ckt1qyqvjpgzz28f2nsten7e0rsdwauxpmfjmm7qyh2jxg)
 
